@@ -10,7 +10,8 @@ pygame.display.set_caption('helloworld') #제목
 height=960 #세로
 width=1200 #가로
 
-
+#머시기머시기머시기머시기머시기머시기머시기머시기
+print("울랄라")
 enemy_img = pygame.image.load('dd.png') #이미지로드
 imgw=enemy_img.get_size()[0] #[0]은 이미지 가로길이
 imgh=enemy_img.get_size()[1] #[1]은 이미지 세로길이
