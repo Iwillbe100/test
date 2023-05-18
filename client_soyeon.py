@@ -6,7 +6,7 @@ import threading
 
 
 pygame.init()
-pygame.display.set_caption('helloworld')
+pygame.display.set_caption('집가고싶다')
 height=960
 width=1200
 
