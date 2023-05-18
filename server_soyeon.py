@@ -30,6 +30,7 @@ def consoles():
         elif(msg.decode()=='left'): #소켓으로부터받은데이터가 left일경우 적x좌표조정
             enex-=30
 
+# gdgdagdsgasdg
 
 def acceptC():
     global client,server,addr
@@ -43,6 +44,7 @@ def acceptC():
     #멀티쓰레딩(밑에는 데몬스레드라고 선언 -> c++로 따지면 detach와같습니다)
     thr.Daemon=True
     thr.start()
+
 
 
 
