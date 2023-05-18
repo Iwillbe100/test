@@ -1,5 +1,7 @@
 import socket
 
+print("우헤헿ㅎ헤 바보들!")
+
 HOST = 'localhost'
 PORT = 50007
 
